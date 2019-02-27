@@ -948,7 +948,7 @@ header .social-links ul li a:focus {
 }
 
 #home.home-static {
-	background-image: url(../images/About.jpg);
+	background-image: url(../images/About.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
