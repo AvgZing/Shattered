@@ -945,7 +945,7 @@ header .social-links ul li a:focus {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#00000000', GradientType=1);  /* IE6-9 */
 }
 #home .row {
-	max-width: 1290px;
+	max-width: 1590px;
 }
 
 #home.home-static {
@@ -991,11 +991,11 @@ header .social-links ul li a:focus {
 .main-content-tablecell .row {
 	position: relative;
 	padding-top: 4.2rem;
-	padding-bottom: 15rem;
+	padding-bottom: 16rem;
 }
 
 .main-content-tablecell #counter {
-	margin-bottom: 4.2rem;
+	margin-bottom: 1.1rem;
 }
 .main-content-tablecell #counter:before,
 .main-content-tablecell #counter:after {
@@ -1013,11 +1013,10 @@ header .social-links ul li a:focus {
 	text-align: right;
 	color: #FFFFFF;
 	font-family: "roboto-black", sans-serif;
-	font-size: 12rem;
+	font-size: 9rem;
 	line-height: 1;
 	padding: 0;
 	font-weight: bold;
-	margin-bottom: 0.5rem;
 }
 .main-content-tablecell #counter span sup {
 	font-family: "roboto-bold", sans-serif;
