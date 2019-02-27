@@ -1016,7 +1016,8 @@ header .social-links ul li a:focus {
 	font-size: 12rem;
 	line-height: 1;
 	padding: 0;
-	margin-bottom: 1.5rem;
+	font-weight: bold;
+	margin-bottom: 0.5rem;
 }
 .main-content-tablecell #counter span sup {
 	font-family: "roboto-bold", sans-serif;
@@ -1126,7 +1127,7 @@ header .social-links ul li a:focus {
 		margin-bottom: 2.4rem;
 	}
 	.main-content-tablecell #counter span {
-		font-size: 11rem;
+		font-size: 9rem;
 	}
 }
 @media only screen and (max-width:1024px) {
