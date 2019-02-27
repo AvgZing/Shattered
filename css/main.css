@@ -828,6 +828,7 @@ header .social-links ul li:last-child {
 header .social-links ul li a,
 header .social-links ul li a:visited {
 	color: #FFFFFF;
+	font-size: 15.375px;
 }
 
 header .social-links ul li a:hover,
